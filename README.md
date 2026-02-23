@@ -1,4 +1,4 @@
-# Random Project
+# Digital Timer
 
 A modern Vite + React application featuring a sleek digital timer with real-time countdown functionality.
 
